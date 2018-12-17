@@ -7,6 +7,9 @@
 
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>dotnet-nuget-sources</ToolCommandName>
+    <PackageProjectUrl>https://github.com/dmirmilshteyn/dotnet-nuget-sources</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/dmirmilshteyn/dotnet-nuget-sources/blob/master/LICENSE.md</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/dmirmilshteyn/dotnet-nuget-sources</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
