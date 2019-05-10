@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFrameworks>netcoreapp2.1;netcoreapp3.0</TargetFrameworks>
+    <Version>1.0.1</Version>
     <RootNamespace>dotnet_nuget_sources</RootNamespace>
 
     <PackAsTool>true</PackAsTool>
